@@ -48,6 +48,13 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "id": 8,
+      "nome": "Marcia Silva",
+      "ativo": true,
+      "email": "m@m.com",
+      "role": 2
     }
   ],
   "roles": [
